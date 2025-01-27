@@ -1,0 +1,15 @@
+[2025-01-27 15:59:09] [[32minfo[39m]: [32mLoaded handler: eventHandler.js[39m
+[2025-01-27 15:59:09] [[32minfo[39m]: [32mStarted refreshing application (/) commands.[39m
+[2025-01-27 15:59:09] [[31merror[39m]: [31mError registering commands: 401: Unauthorized[39m
+[2025-01-27 15:59:09] [[32minfo[39m]: [32mLoaded handler: interactionHandler.js[39m
+[2025-01-27 15:59:09] [[31merror[39m]: [31mUnhandled Rejection: An invalid token was provided.[39m
+[2025-01-27 15:59:49] [[32minfo[39m]: [32mLoaded handler: eventHandler.js[39m
+[2025-01-27 15:59:49] [[32minfo[39m]: [32mStarted refreshing application (/) commands.[39m
+[2025-01-27 15:59:49] [[31merror[39m]: [31mError registering commands: 401: Unauthorized[39m
+[2025-01-27 15:59:49] [[32minfo[39m]: [32mLoaded handler: interactionHandler.js[39m
+[2025-01-27 15:59:50] [[31merror[39m]: [31mUnhandled Rejection: An invalid token was provided.[39m
+[2025-01-27 16:00:07] [[32minfo[39m]: [32mLoaded handler: eventHandler.js[39m
+[2025-01-27 16:00:07] [[32minfo[39m]: [32mStarted refreshing application (/) commands.[39m
+[2025-01-27 16:00:07] [[31merror[39m]: [31mError registering commands: 401: Unauthorized[39m
+[2025-01-27 16:00:07] [[32minfo[39m]: [32mLoaded handler: interactionHandler.js[39m
+[2025-01-27 16:00:07] [[31merror[39m]: [31mUnhandled Rejection: An invalid token was provided.[39m

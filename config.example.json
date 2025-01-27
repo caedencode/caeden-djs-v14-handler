@@ -1,0 +1,13 @@
+{
+    "bot": {
+        "optional": "false",
+        "DISCORD_TOKEN": "",
+        "APP_ID": "",
+        "APP_SECRET": ""
+    },
+    "database": {
+        "optional": "true",
+        "DB_MODE": false, 
+        "MONGO_URI": "mongodb://username:password@host:port/database"
+    }
+}
