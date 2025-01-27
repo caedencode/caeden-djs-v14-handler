@@ -15,8 +15,8 @@ A powerful and flexible command handler for Discord.js v14 with automatic comman
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/caedencode/caedens-djs-v14-handler.git
-cd caedens-djs-v14-handler
+git clone https://github.com/caedencode/caeden-djs-v14-handler.git
+cd caeden-djs-v14-handler
 npm install
 ```
 
